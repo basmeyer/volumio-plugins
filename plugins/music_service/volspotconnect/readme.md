@@ -46,7 +46,7 @@ Type the following commands to download and install plugin:
 wget https://github.com/balbuze/volumio-plugins/raw/master/plugins/music_service/volspotconnect/volspotconnect.zip
 mkdir ./volspotconnect
 miniunzip volspotconnect.zip -d ./volspotconnect
-cd ./volspotconnect2
+cd ./volspotconnect
 volumio plugin install
 ```
 
